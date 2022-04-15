@@ -7,6 +7,16 @@ switch($age){
     case 12:
 
         echo "You are 12 years old <br>";
+        echo "You are 12 years old <br>";
+        echo "You are 12 years old <br>";
+        echo "You are 12 years old <br>";
+        echo "You are 12 years old <br>";
+        echo "You are 12 years old <br>";
+        echo "You are 12 years old <br>";
+        echo "You are 12 years old <br>";
+        echo "You are 12 years old <br>";
+        echo "You are 12 years old <br>";
+        echo "You are 12 years old <br>";
 
         break;
 
